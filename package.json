@@ -27,8 +27,8 @@
   "dependencies": {
     "@actions/core": "^1.2.6",
     "@actions/exec": "^1.0.2",
-    "@actions/github": "^2.0.0",
-    "actions-toolkit": "^2.2.0"
+    "@actions/github": "^3.0.0",
+    "actions-toolkit": "^4.0.0"
   },
   "devDependencies": {
     "@zeit/ncc": "^0.20.5",
